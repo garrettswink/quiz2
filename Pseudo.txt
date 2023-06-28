@@ -1,0 +1,38 @@
+
+//Welcome Div
+<h1>Welome to the JavaScript Quiz<h1>
+<Game Container Div> Where all the action happens
+<Button>Begin</Button>
+
+//When Button Pressed
+<h1>Disappears
+<Button> Disappears
+
+quizArray Question 1 appears
+Question 1 quizArray answer options appear in buttons
+Timer Begins
+
+// const quizArray = [
+    {
+        id: "0",
+        question: "What does HTML stand for?",
+        options: [
+            "Hyper Text Markup Language",
+            "Historic Task Meneuvering Lexicon",
+            "Hard Terminal Management Layer",
+            "It doesn't stand for anything...like KFC."
+        ],
+        correct: "Hyper Text Markup Language",
+    },
+
+//Array Functionality
+When incorrect answer is clicked wrong image is displayed
+Next Button is displayed
+
+When correct answer is clicked, correct image is displayed
+Next Button is displayed
+
+//Score Functionality
+Question 5 next button hides the question Array
+Question 5 next button displays Score
+Play Again Button Appears
